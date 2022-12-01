@@ -1,0 +1,5 @@
+# deps / ide's etc.
+.idea
+node_modules
+
+**/input.txt
